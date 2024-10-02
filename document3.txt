@@ -1,3 +1,2 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus turpis tellus, scelerisque quis tempor et, finibus a risus. Ut vehicula sagittis enim vitae posuere. Duis molestie vel sapien nec blandit. Suspendisse libero sapien, dictum a semper hendrerit, egestas sit amet mauris. Sed congue elementum accumsan. Mauris blandit, sapien a ultrices malesuada, lorem diam elementum dolor, ut ultricies mi ex quis metus. Nullam tristique felis bibendum, convallis mauris a, pharetra justo. Donec magna neque, sodales ac dolor eu, molestie mollis quam. Praesent nibh eros, congue ac tortor id, lacinia varius odio. Quisque consequat sed arcu vel rhoncus. Curabitur orci quam, aliquet sed pellentesque sit amet, vestibulum eget odio.
-
-Donec condimentum blandit semper. Cras at tempor ligula. In egestas ut orci eget accumsan. Nulla lobortis rhoncus orci, sit amet interdum diam consequat in. Suspendisse auctor pretium nisl ut tempus. Proin nisl elit, consectetur in pharetra non, fringilla id orci. Aenean lobortis velit tellus, eu sollicitudin odio convallis quis. Proin magna lacus, ultricies a faucibus vel, accumsan in ante.
+Dept. of C.E.
+Kumoh National Institute of Technology
